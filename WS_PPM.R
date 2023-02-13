@@ -468,9 +468,9 @@ parameters <- c("lambda","mean.lambda","lambdaW","mean.lambdaW",
                 "pop.change","pop.changeW","pop.numbers","pop.numbersW", "N", "NW") #"N",
 
 # MCMC settings
-ni <- 500#00
-nt <- 1#0
-nb <- 100#00
+ni <- 50000
+nt <- 10
+nb <- 10000
 nc <- 3
 
 # Call JAGS from R
