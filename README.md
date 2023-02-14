@@ -1,6 +1,6 @@
 # Swans
 
-This repository contains code and data to reproduce the analyses in Soriano-Redondo et al. (in review at PNAS).
+This repository contains code and data to reproduce the analyses in Soriano-Redondo et al. (2023).
 
 The code to reproduce the multistate survival and movement model is provided as <strong><a href="https://github.com/rbsherley/Swans/blob/main/WS_CMR_TD.R" target="_blank" rel="noopener noreferrer">WS_CMR_TD.R</a></strong> and the Capture History dataset used for that analysis is provided as <strong><a href="https://github.com/rbsherley/Swans/blob/main/Whooper_MS_Age_Encounter.csv" target="_blank" rel="noopener noreferrer">Whooper_MS_Age_Encounter.csv</a></strong>. The multistate model that accounts for trap-dependence in the adult swans was adapted from Kéry & Schaub (2012) by <strong><a href="https://fwce.nmsu.edu/faculty-staff/fitsum-abadi-gebreselass.html" target="_blank" rel="noopener noreferrer">Fitsum Abadi Gebreselassie</a></strong>.
 
@@ -14,4 +14,4 @@ References:
 
 Kéry M. and Schaub M. 2012. Bayesian Population Analysis using WinBUGS: A hierarchical perspective. Academic Press, Oxford UK.
 
-Soriano-Redondo A., Inger R., Sherley R.B., Rees E.C., Abadi F., McElwaine G., Colhoun K., Einarsson O., Thorstensen S., Newth J., Brides K., Hodgson D., and Bearhop S. Demographic rates reveal the benefits of protected areas in a long-lived migratory bird. In review at Proceedings of the National Academy of Sciences USA.
+Soriano-Redondo A, Inger R, Sherley RB, Rees EC, Abadi F, McElwaine G, Colhoun K, Einarsson O, Thorstensen S, Newth J, Brides K, Hodgson DJ and Bearhop S. 2023. Demographic rates reveal the benefits of protected areas in a long-lived migratory bird. In review at Proceedings of the National Academy of Sciences USA 120: e2212035120.
